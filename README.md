@@ -11,4 +11,5 @@ Após clonar o repositório, executar os comandos:
 ```sh
 $ npm install
 $ grunt
+$ npm start
 ```
